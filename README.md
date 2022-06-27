@@ -7,4 +7,4 @@ Using your knowledge of JavaScript, Plotly, and D3.js, create a horizontal bar c
 
 Your bar chart should look like the following image:
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Plotly/blob/main/Resources/Images/s2.png?raw=true)
+![name-of-you-image](static/images/Tabla.jpg)
